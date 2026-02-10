@@ -5,8 +5,8 @@ This is a solution to the **Product Preview Card Component** challenge on [Front
 
 ## 🔗 Links
 
-- **Live Site URL:** https://your-live-site-link-here
-- **Repository URL:** https://github.com/your-username/your-repo-name
+- **Live Site URL:** https://treasure05nxazonke-art.github.io/Product-preview-card-component/
+  
 
 ---
 
